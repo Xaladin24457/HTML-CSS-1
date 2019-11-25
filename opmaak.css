@@ -1,0 +1,63 @@
+body {
+  background-image: url("ja.jpg");
+  background-attachment: fixed;
+  color: white;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+}
+
+h1 {
+  background-color: brown;
+  border: 4px solid yellow;
+  border-radius: 50px;
+  text-align: center;
+  font-family: cursive;
+}
+
+h2 {
+  text-align: center;
+  font-family: cursive;
+}
+
+p {
+  text-align:center;
+  font-family: cursive;
+}
+
+li {
+  margin: auto;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  text-align: center;
+  font-family: cursive;
+}
+
+th, td {
+  border: 5px solid yellow;
+  background-color: brown;
+  padding: 5px;
+  max-width: 400px;
+}
+
+img {
+  border: 3px solid yellow;
+  background-color: brown;
+}
+
+a {
+  border: 3px solid yellow;
+  background-color: brown;
+  border-radius: 9px;
+  padding: 5px;
+  font-weight: bolder;
+  margin: auto;
+  font-size: 30px;
+  font-family: cursive;
+  color: white;
+}
