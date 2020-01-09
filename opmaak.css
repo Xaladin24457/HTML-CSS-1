@@ -62,14 +62,14 @@ a {
   color: white;
 }
 
-p.yellow, a.yellow {
+.yellow {
   color: yellow;
 }
 
-a:active {
-  background-color: yellow;
+.active {
+  color: yellow;
 }
 
 a:hover {
-  color:red;
+  color:black;
 }
