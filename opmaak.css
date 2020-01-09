@@ -39,7 +39,7 @@ table {
 }
 
 th, td {
-  border: 5px solid yellow;
+  border: 7px solid yellow;
   background-color: brown;
   padding: 5px;
   max-width: 400px;
@@ -54,7 +54,7 @@ a {
   border: 3px ridge yellow;
   background-color: brown;
   border-radius: 9px;
-  padding: 5px;
+  padding: 10px;
   font-weight: bolder;
   margin: auto;
   font-size: 30px;
