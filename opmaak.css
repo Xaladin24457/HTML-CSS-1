@@ -69,3 +69,7 @@ p.yellow, a.yellow {
 a:active {
   background-color: yellow;
 }
+
+a:hover {
+  color:red;
+}
