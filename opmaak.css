@@ -65,3 +65,7 @@ a {
 p.yellow, a.yellow {
   color: yellow;
 }
+
+a:active {
+  background-color: yellow;
+}
