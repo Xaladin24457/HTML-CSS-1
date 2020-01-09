@@ -67,7 +67,7 @@ a {
 }
 
 .active {
-  color: yellow;
+  background-color: yellow;
 }
 
 a:hover {
