@@ -70,6 +70,14 @@ a {
   background-color: darkblue;
 }
 
+td, th {
+  border: solid black 1px;
+}
+
+table {
+  border: solid black 1px;
+}
+
 a:hover {
   background-color: black;
 }
