@@ -7,6 +7,18 @@ body {
 .menu {
   display: flex;
   list-style: none;
+  border: 3px solid darkblue;
+  background-color: blue;
+  border-radius: 9px;
+}
+
+.menu li {
+  padding: 10px;
+  font-weight: bolder;
+  margin: auto;
+  font-size: 30px;
+  font-family: cursive;
+  color: white;
 }
 
 h1 {
@@ -50,10 +62,13 @@ img {
   background-color: darkblue;
 }
 
-a {
+#linkje {
   border: 3px solid darkblue;
   background-color: blue;
-  border-radius: 9px;
+  border-radius: 9px
+}
+
+a {
   padding: 10px;
   font-weight: bolder;
   margin: auto;
@@ -62,8 +77,13 @@ a {
   color: white;
 }
 
+li {
+  color: white
+  
+}
+
 .blue {
-  color: blue;
+  color: black;
 }
 
 .active {
