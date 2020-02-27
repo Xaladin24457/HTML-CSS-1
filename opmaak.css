@@ -62,12 +62,6 @@ img {
   background-color: darkblue;
 }
 
-#linkje {
-  border: 3px solid darkblue;
-  background-color: blue;
-  border-radius: 9px
-}
-
 a {
   padding: 10px;
   font-weight: bolder;
@@ -75,6 +69,17 @@ a {
   font-size: 30px;
   font-family: cursive;
   color: white;
+}
+
+.lijst {
+  margin: auto;
+  padding: 3px;
+  max-width: 10%;
+  font-family: cursive;
+  color: white;
+  border: 3px solid darkblue;
+  background-color: blue;
+  border-radius: 9px
 }
 
 .blue {
