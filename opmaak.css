@@ -90,12 +90,8 @@ a {
   background-color: darkblue;
 }
 
-td, th {
-  border: solid black 1px;
-}
-
-table {
-  border: solid black 1px;
+.grotetexttable {
+  font-size: 30px;
 }
 
 a:hover {
