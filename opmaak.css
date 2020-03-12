@@ -92,6 +92,8 @@ a {
 
 .grotetexttable {
   font-size: 30px;
+  font-family: monospace;
+  background-color: darkblue;
 }
 
 a:hover {
