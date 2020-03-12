@@ -96,6 +96,10 @@ a {
   background-color: darkblue;
 }
 
+.grotetexttable2 {
+  font-size: 20px;
+}
+
 a:hover {
   background-color: black;
 }
